@@ -1,0 +1,14 @@
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.exe
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.deps.json
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.runtimeconfig.json
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.runtimeconfig.dev.json
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.dll
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\bin\Debug\netcoreapp3.1\ling zad 1.pdb
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.AssemblyInfo.cs
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.dll
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.pdb
+C:\Users\adamk\source\repos\ling zad 1\ling zad 1\obj\Debug\netcoreapp3.1\ling zad 1.genruntimeconfig.cache
