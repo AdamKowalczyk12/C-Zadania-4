@@ -1,0 +1,15 @@
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\bin\Debug\WpfApp 5 bindowanie.exe.config
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\bin\Debug\WpfApp 5 bindowanie.exe
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\bin\Debug\WpfApp 5 bindowanie.pdb
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\MainWindow.g.cs
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\App.g.cs
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie_MarkupCompile.cache
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie_MarkupCompile.lref
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\MainWindow.baml
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.g.resources
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp_5_bindowanie.Properties.Resources.resources
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.exe
+C:\Users\adamk\source\repos\WpfApp 5 bindowanie\WpfApp 5 bindowanie\obj\Debug\WpfApp 5 bindowanie.pdb
