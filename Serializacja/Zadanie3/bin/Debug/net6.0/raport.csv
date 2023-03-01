@@ -1,0 +1,48 @@
+get_CanRead;True;True;Boolean;
+get_CanWrite;True;True;Boolean;
+get_CanSeek;True;True;Boolean;
+get_CanTimeout;False;True;Boolean;
+get_Length;True;True;Int64;
+get_Position;True;True;Int64;
+set_Position;True;True;Void;Int64 value
+get_ReadTimeout;False;True;Int32;
+set_ReadTimeout;False;True;Void;Int32 value
+get_WriteTimeout;False;True;Int32;
+set_WriteTimeout;False;True;Void;Int32 value
+CopyTo;False;False;Void;Stream destination
+CopyTo;False;True;Void;Stream destination,Int32 bufferSize
+CopyToAsync;False;False;Task;Stream destination
+CopyToAsync;False;False;Task;Stream destination,Int32 bufferSize
+CopyToAsync;False;False;Task;Stream destination,CancellationToken cancellationToken
+CopyToAsync;False;True;Task;Stream destination,Int32 bufferSize,CancellationToken cancellationToken
+Dispose;False;True;Void;
+Close;False;True;Void;
+DisposeAsync;False;True;ValueTask;
+Flush;True;True;Void;
+FlushAsync;False;False;Task;
+FlushAsync;False;True;Task;CancellationToken cancellationToken
+BeginRead;False;True;IAsyncResult;Byte[] buffer,Int32 offset,Int32 count,AsyncCallback callback,Object state
+EndRead;False;True;Int32;IAsyncResult asyncResult
+ReadAsync;False;False;Task`1;Byte[] buffer,Int32 offset,Int32 count
+ReadAsync;False;True;Task`1;Byte[] buffer,Int32 offset,Int32 count,CancellationToken cancellationToken
+ReadAsync;False;True;ValueTask`1;Memory`1 buffer,CancellationToken cancellationToken
+BeginWrite;False;True;IAsyncResult;Byte[] buffer,Int32 offset,Int32 count,AsyncCallback callback,Object state
+EndWrite;False;True;Void;IAsyncResult asyncResult
+WriteAsync;False;False;Task;Byte[] buffer,Int32 offset,Int32 count
+WriteAsync;False;True;Task;Byte[] buffer,Int32 offset,Int32 count,CancellationToken cancellationToken
+WriteAsync;False;True;ValueTask;ReadOnlyMemory`1 buffer,CancellationToken cancellationToken
+Seek;True;True;Int64;Int64 offset,SeekOrigin origin
+SetLength;True;True;Void;Int64 value
+Read;True;True;Int32;Byte[] buffer,Int32 offset,Int32 count
+Read;False;True;Int32;Span`1 buffer
+ReadByte;False;True;Int32;
+Write;True;True;Void;Byte[] buffer,Int32 offset,Int32 count
+Write;False;True;Void;ReadOnlySpan`1 buffer
+WriteByte;False;True;Void;Byte value
+Synchronized;False;False;Stream;Stream stream
+GetLifetimeService;False;False;Object;
+InitializeLifetimeService;False;True;Object;
+GetType;False;False;Type;
+ToString;False;True;String;
+Equals;False;True;Boolean;Object obj
+GetHashCode;False;True;Int32;
