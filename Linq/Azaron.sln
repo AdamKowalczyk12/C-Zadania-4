@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{7E459161-AA78-477D-92A3-95D34BDF4806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie2", "Zadanie2\Zadanie2.csproj", "{DE0608D4-4D8E-412A-B649-74CA22D7A91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie3", "Zadanie3\Zadanie3.csproj", "{9C1AD2A0-B890-42ED-A35F-087342B51496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E459161-AA78-477D-92A3-95D34BDF4806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E459161-AA78-477D-92A3-95D34BDF4806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E459161-AA78-477D-92A3-95D34BDF4806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E459161-AA78-477D-92A3-95D34BDF4806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0608D4-4D8E-412A-B649-74CA22D7A91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0608D4-4D8E-412A-B649-74CA22D7A91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0608D4-4D8E-412A-B649-74CA22D7A91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0608D4-4D8E-412A-B649-74CA22D7A91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1AD2A0-B890-42ED-A35F-087342B51496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1AD2A0-B890-42ED-A35F-087342B51496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1AD2A0-B890-42ED-A35F-087342B51496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1AD2A0-B890-42ED-A35F-087342B51496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B39ED8-C07E-4FBB-BE00-CB5641CB64EB}
+	EndGlobalSection
+EndGlobal
